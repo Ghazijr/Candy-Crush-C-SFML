@@ -1,0 +1,90 @@
+﻿  Main.cpp
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(92,37): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(92,29): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(100,37): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(100,29): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(109,37): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(109,29): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(141,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(155,27): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(158,28): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(217,37): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(217,29): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(342,66): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(342,59): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(343,66): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(343,59): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(350,67): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(350,59): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(367,60): warning C4305: 'argument' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(380,62): warning C4305: 'argument' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\candy\Main.cpp(393,60): warning C4305: 'argument' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+  candy.vcxproj -> C:\Users\USER\Desktop\PROJECTS\5-Candy_Crush C++\2.0\Candy Crush C++\Code\Debug\candy.exe

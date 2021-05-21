@@ -1,0 +1,7 @@
+    sf::Text inftxt("Candy Crush est un jeu qui consiste\nà éliminer des bonbons colorés.\nD'abord, vous devez choisir deux bonbons\nvoisins dont leur permutation engendre\nl'un des cas de combinaison ci-dessous :\n-une combinaison de trois, dans ce cas\nil y a l'élimination de ces bonbons.\n-une combinaison de quatre génère un\nbonbon rayé horizontalement\n ou verticalement,tel qu'il élimine\n tous les bonbonsde la ligne ou de la colonne\nsuivant le sens de raiure.\n-une combinaison de cinq génère un bonbon multicouleur\nd'où l'utilisation de ce dernier dans une permutation\nélimine tous les bonbons de même couleur\nde bonbon permuté dans la grille.\n-une combinaison en “T” ou en “L” \ngénère un bonbon explosif,\nl’utilisation de ce dernier engendre la suppression\ndes bonbons entourant le carré du bonbon explosif (3*3).\nle but du jeu est d'avoir un score bien déterminé\nselon le niveau en faisant un nombre de clicks limités\npour passer aux autres niveaux", fnt);
+
+
+FAZT NAZLEN FIL MENU 
+COULEUR ASFER 8AMA9
+animation btn
+PAGE 2 
